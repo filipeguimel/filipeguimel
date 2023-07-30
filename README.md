@@ -1,6 +1,5 @@
 ### Hi there 👋 my name is Guimel!
 
-- 🔭 I’m currently working at EMBRAPII - Empresa Brasileira de Pesquisa e Inovação Industrial.
 - 🌱 I study computer science at CIN-UFPE Centro de Informática da Universidade Federal de Pernambuco.
 - ⚡ Technology enthusiast and how it allows to change the world.
 
